@@ -9,7 +9,7 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dita-deb/dita-deb/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
   </picture>
 </div>
-
+ 
 <!--
 
 <picture>
